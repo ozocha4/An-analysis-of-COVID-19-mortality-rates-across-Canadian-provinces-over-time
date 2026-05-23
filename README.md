@@ -43,7 +43,8 @@ The chart shows that COVID-19 mortality rates varied notably across Canadian pro
 By year, the largest visible contributions came from 2020 and 2022, especially in Quebec and Manitoba, indicating that those years were more severe in several provinces. The 2021 values were moderate across most regions, while 2023 contributed very little overall, suggesting a clear decline in mortality by the final year. Overall, the data indicates that COVID-19 mortality was uneven across Canada but generally decreased over time across most provinces.
 
 
-<img width="908" height="638" alt="image" src="https://github.com/user-attachments/assets/d3f53dd7-09ec-4c58-99ed-2513b108bb10" />
+<img width="906" height="638" alt="image" src="https://github.com/user-attachments/assets/3ceed119-b80e-4044-978e-404792efbb3a" />
+
 
  
 
@@ -51,7 +52,9 @@ The chart shows a positive relationship between confirmed COVID-19 cases and dea
 
 Dashboard:
 
-<img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/bd6996e3-1a0f-4684-a23c-21577fc55151" />
+<img width="1284" height="835" alt="image" src="https://github.com/user-attachments/assets/e54a494d-b948-4cd1-b8ac-5f4a9f03d2f7" />
+
+
 
 
 
